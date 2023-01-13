@@ -123,13 +123,18 @@ You must use the `--build` flag whenever you deploy. This ensures that the Edge 
 
 Add `--prod` flag to deploy to production.
 
+---
+
 Steps to run and deploy:
 (Reference: https://www.netlify.com/blog/how-to-deploy-the-qwik-javascript-framework/)
 
 - npm init qwik@latest
 - npm run qwik add netlify-edge
+
 - npm install
 - npm install netlify-cli -g
 - netlify login
 - netlify init
-- git init (to convert the repo into a gir repo)
+- git add . && git commit -m "C" && git push origin main && git push && netlify open
+
+---
