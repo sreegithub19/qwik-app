@@ -138,3 +138,17 @@ Steps to run and deploy:
 - git add . && git commit -m "C" && git push origin main && git push && netlify deploy --prod && netlify open
 
 ---
+
+Demo:
+
+Part 1:
+https://user-images.githubusercontent.com/55496113/222214793-eb4bc76b-69c1-4125-b016-be74299b1f6e.mp4
+
+Part 2:
+https://user-images.githubusercontent.com/55496113/222214804-ec596fdc-2159-4760-8079-684bfc664960.mp4
+
+Part 3:
+https://user-images.githubusercontent.com/55496113/222214813-b632c398-4dac-48ea-a477-67a6732f24d1.mp4
+
+
+
