@@ -137,7 +137,7 @@ Steps to run and deploy:
 - netlify init
 - git add . && git commit -m "C" && git push origin main && git push && netlify deploy --prod && netlify open
 
----
+----
 
 Demo:
 
